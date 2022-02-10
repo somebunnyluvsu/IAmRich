@@ -1,5 +1,6 @@
 # I Am Rich
 
+A simple Flutter Application which shows you how much rich you are!
 A new Flutter project.
 
 ## Getting Started
@@ -7,7 +8,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
+- [Best Flutter Course by Dr. Angela Yu].(https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
